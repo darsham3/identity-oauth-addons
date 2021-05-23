@@ -422,7 +422,7 @@
 
 
         <carbon.identity.version>5.14.67</carbon.identity.version>
-        <identity.inbound.auth.oauth.version>6.2.18</identity.inbound.auth.oauth.version>
+        <identity.inbound.auth.oauth.version>6.4.2</identity.inbound.auth.oauth.version>
         <identity.inbound.auth.oauth.imp.pkg.version>[6.2.18,7.0.0)</identity.inbound.auth.oauth.imp.pkg.version>
         <carbon.kernel.version>4.6.0</carbon.kernel.version>
         <carbon.kernel.feature.version>4.6.0</carbon.kernel.feature.version>
@@ -466,6 +466,13 @@
         <balana.import.version.range>[1.1.0, 2.0.0)</balana.import.version.range>
         <axiom.osgi.version.range>[1.2.11, 2.0.0)</axiom.osgi.version.range>
         <axiom.org.jaxen.imp.pkg.version.range>[1.1.1, 2.0.0)</axiom.org.jaxen.imp.pkg.version.range>
+
+        <identity.oauth.common.version>6.4.2</identity.oauth.common.version>
+        <identity.inbound.auth.oauth.exp.pkg.version>6.4.2</identity.inbound.auth.oauth.exp.pkg.version>
+        <osgi.framework.imp.pkg.version.range>[1.7.0, 2.0.0)</osgi.framework.imp.pkg.version.range>
+        <osgi.service.component.imp.pkg.version.range>[1.2.0, 2.0.0)</osgi.service.component.imp.pkg.version.range>
+        <identity.event.version>5.17.5</identity.event.version>
+        <carbon.core.common.version>4.6.0</carbon.core.common.version>
 
         <!--Test Dependencies-->
         <commons.collections.version>3.2.2</commons.collections.version>
